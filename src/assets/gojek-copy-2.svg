@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="131" height="56" viewBox="0 0 131 56">
+    <defs>
+        <text id="b" font-family="WorkSans-Medium, Work Sans" font-size="44" font-weight="400">
+            <tspan x="0" y="41">Gojek</tspan>
+        </text>
+        <filter id="a" width="117.2%" height="140.4%" x="-8.6%" y="-20.2%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.704269159 0 0 0 0 0.380373476 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+    </defs>
+    <g fill="#C493FF" fill-rule="evenodd" transform="translate(4 -2)">
+        <use filter="url(#a)" xlink:href="#b"/>
+        <use xlink:href="#b"/>
+        <use xlink:href="#b"/>
+    </g>
+</svg>

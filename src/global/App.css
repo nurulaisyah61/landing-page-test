@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  position: relative;
+  font-family: 'Dosis', sans-serif;
+}
+
+p {
+  letter-spacing: 0.2px;
+  margin: 5px;
+}
+
+.f-12 {
+  font-size: 11px;
+}
+
+.f-14 {
+  font-size: 14px;
+}
+
+.f-16 {
+  font-size: 16px;
+}
+
+.f-24 {
+  font-size: 24px;
+}
